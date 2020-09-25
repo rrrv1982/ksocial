@@ -1,0 +1,286 @@
+THE US GOVERNMENT
+
+Using Big Data To Run A Country
+
+Background
+After committing to a $200 million investment in data analytics and
+pledging to make as much Government-gathered data as possible
+available to the public, Barack Obama was called “The Big Data president” by The Washington Post.
+1
+Not all of the Obama administration’s work with collecting and
+analysing data (usually our data ... ) was well received, of course.
+Obama’s presidency will go down in history as the point when we
+first began to realize the scale of the covert surveillance being carried out against the domestic population, thanks to Edward Snowden
+and WikiLeaks.
+The administration have made some moves towards transparency,
+however, such as building the public data.gov portal through which
+they have promised to make their collected data available to everyone. For better or worse, Obama’s presidency has coincided with the
+huge explosion in data gathering, storing and analysis that we call Big
+Data – and his administration have been clear they want their slice of
+the action.
+
+What Problem Is Big Data Helping To Solve?
+Administering the world’s leading economic power and its population of 300 million-plus people clearly takes a colossal amount of
+effort and resources. The federal Government have responsibility for
+national security, economic security, healthcare, law enforcement,
+disaster recovery, food production, education and just about every
+other aspect of their citizens’ lives.
+These responsibilities have always been divided amongst the many
+far-reaching arms of the administration – each of which has traditionally collected its own relevant data in the ways it best sees fit, and
+siloed it away in isolation. Requests to share data between branches
+of Government would often take time and become mired in bureaucracy and red tape – certainly not an environment conducive to the
+super-fast analytics and comprehensive data-monitoring techniques
+which have been revolutionizing private-sector industry.
+Earlier this year, the US Government appointed the country’s firstever chief data scientist: D. J. Patil, and before taking it up he had been
+employed at the Department of Defence, where he analysed social
+media attempting to detect terrorism threats. He has also held positions at LinkedIn, Skype, PayPal and eBay.
+
+How Is Big Data Used In Practice?
+The US Government have instigated a large number of data-driven
+strategies among their numerous departments and agencies, each in
+line with the remit of that particular branch. These include networks
+of automated licence plate recognition (ALPR) scanners and monitors tracking the flow of car, train and air passengers to discern
+where infrastructure investment is needed. ALPR is also used by law
+enforcement to predict and track the movement of criminals around
+the country, as well as terror suspects. Predictive technologies are also
+used by law enforcement bodies to anticipate “hot spots”, where trouble is likely to flare up and allocate resources according to priority.
+In education, because more and more learning at schools and colleges
+is being carried out online, those bodies responsible for setting education policy can gain greater understanding into how the population
+learns, and assess the level of education and skills among the population in a specific geographical area, again allowing for a more efficient
+planning and deployment of resources.
+In healthcare, social media analysis is used by the Centres for Disease Control (CDC) to track the spread of epidemics and other public
+health threats. And the National Institutes of Health launched the Big
+Data to Knowledge (BD2K) project in 2012 to encourage healthcare
+innovation through data analytics.
+As well as this, the Department of Agriculture carry out research
+and scientific analysis of farming and food production, based on
+Big Data gathered in fields and farmyards. Milk production of dairy
+herds across the States has been improved thanks to work to identify
+bulls most likely to breed high-yielding cows, through their genetic
+records.
+The CIA were also partly responsible, through investments, for the
+rise of predictive security specialists Palantir, which use predictive
+data algorithms to fight international and domestic terrorism and
+financial fraud (see Chapter 24).
+
+What Were The Results?
+
+Last year, a group of White House officials appointed to carry out
+a three-month review into the impact of widespread Big Data technologies and strategies reported: “While Big Data unquestionably
+increases the potential of government power to accrue unchecked, it
+also holds within it solutions that can enhance accountability, privacy
+and the rights of citizens.”2
+After a thorough review of the methodologies, either currently
+adopted or planned, they concluded: “Big Data tools offer astonishing
+and powerful opportunities to unlock previously inaccessible insights
+from new and existing datasets.
+“Big Data can fuel developments and discoveries in health care and
+education, in agriculture and energy use, and in how businesses organize their supply chains and monitor their equipment. Big Data holds
+the potential to streamline the provision of public services, increase
+the efficient use of taxpayer dollars at every level of government and
+substantially strengthen national security.”
+In 2014, it was reported that a predictive fraud prevention system
+used by administrators of the Medicare and Medicaid services had
+prevented $820 million in fraudulent payments being made since its
+introduction three years earlier.3
+
+What Data Was Used?
+The US Government monitor, collect and analyse a vast volume and
+variety of data, both through their own agencies, such as the Food and
+Drug Administration, CDC and local, county and law enforcement,
+and with a wide range of third-party partners.
+This includes climate and meteorological data, food production data
+from agriculture, statistics on crime and security threats from police
+departments and federal agencies, population movement data from
+camera networks and demographic research (i.e. the US Census), economic data from public company records and stock market activity,
+the movement of people and goods in and out of the country through
+migration and import/export data, patterns of energy distribution
+and usage, scientific data collected through federal research and
+development facilities, epidemiology data from tracking the spread
+of illness and illness-causing bacteria and information related to the
+effects of climate change through the Climate Data Initiative.
+Huge amounts of this data are made available through a set of APIs
+published on the data.gov website, so they can be shared amongst
+departments as well as with private-sector innovators and NGOs
+which can glean insights from them.
+
+What Are The Technical Details?
+Data.gov – the online portal where, by Government decree (the 2009
+Open Government Directive), all agencies must make their data available, has grown from 49 datasets at launch to close to 190,000 datasets
+today. The biggest individual contributors are NASA (31,000 datasets
+uploaded), the Department of the Interior (31,000) and the Department of Commerce (63,000). The open-source software WordPress
+and CKAN are used to build and maintain the interface that makes
+the data available to the public.
+
+Any Challenges That Had To Be Overcome?
+Without doubt, the single biggest challenge facing the US Government in their mission to collect and analyse data has been public trust.
+The matter is overbearingly political – a challenge which has meant
+the advantages and disadvantages of any data collection work have to
+be carefully weighed up, and the impact they will have on the public
+perception of the administration taken into account.
+Since Snowden, there have been widespread calls from both ends
+of the political spectrum for greater transparency into governmental
+data collection – which, when carried out without the knowledge of
+its subjects, is widely perceived simply as “spying”. This was undoubtedly the stimulus for Obama’s Open Data Initiative as well as ongoing efforts to increase public understanding of the work carried out
+
+by Patil and the Office of Science and Technology Policy. The 2014
+report to the Executive Office of the President also contains numerous warnings over the danger of the administration becoming seen as
+too keen to stick their noses into the private lives of citizens, and lists
+a number of precautions that could be taken to stop this becoming
+too problematic – chief among them being improved transparency.
+
+What Are The Key Learning Points And Takeaways?
+Big Data holds a great deal of potential for driving efficiencies that
+could improve the lives of people around the world, so it’s critical that
+governments get to grips with handling it in a way that doesn’t generate discomfort or suspicion among their citizens.
+Privacy is a huge concern for most people, and it’s fair to say that
+governments in power today have shown themselves to be less than
+entirely trustworthy when it comes to making distinctions between
+legitimate data gathering and snooping.
+It’s clear, however, that many governments in general, and in particular the current US administration, have come to the conclusion that
+the potential benefit outweighs the potential negative impact of being
+seen by their electorate as “too nosy”. This is evident by the fact that
+investment in data gathering and analytics is continuing to gather
+speed, and by the concerted efforts being made by politicians to play
+down our fears by pointing to increased transparency and accountability.
+
+REFERENCES AND FURTHER READING
+1. Scola, N. (2013) Obama: The “big data” president, https://www.
+washingtonpost.com/opinions/obama-the-big-data-president/2013/06/
+14/1d71fe2e-d391-11e2-b05f-3ea3f0e7bb5a story.html, accessed 5
+January 2016.
+2. Executive Office of the President (2014) Big Data: Seizing opportunities, preserving values, https://www.whitehouse.gov/sites/default/
+files/docs/big data privacy report may 1 2014.pdf, accessed 5 January 2016.
+3. CMS (2014) CMS cutting-edge technology identifies & prevents
+$820 million in improper Medicare payments in first three, years,
+https://www.cms.gov/Newsroom/MediaReleaseDatabase/Press-releases/
+2015-Press-releases-items/2015-07-14.html, accessed 5 January 2016.
+The US Government’s open data portal can be found at: http://www.
+data.gov/
+And more information can be found at:
+http://www.biometricupdate.com/201308/u-s-government-spendingon-big-data-to-grow-exponentially
+
+
+PALANTIR
+How Big Data Is Used To Help The CIA And To
+Detect Bombs In Afghanistan
+
+Background
+Palantir, named after the magical stones in The Lord of The Rings used
+for spying, have made a name for themselves using Big Data to solve
+security problems ranging from fraud to terrorism. Their systems
+were developed with funding from the CIA and are widely used
+by the US Government and their security agencies. Their annual
+revenue is reported to be in the region of $500 million and they are
+forecasted to grow even larger – at the time of writing (January 2016)
+the company are tipped to go public with an IPO and are currently
+valued at $20 billion.
+
+What Problem Is Big Data Helping
+To Solve?
+Initially working on tools to spot fraudulent transactions made with
+credit cards, Palantir soon realized the same pattern-analysis methods could work for disrupting all forms of criminal activity, from
+terrorism to the international drug trade. Now, their sophisticated
+Big Data analytics technology is being used to crack down on crime
+and terrorism.
+
+How Is Big Data Used In Practice?
+Palantir build platforms that integrate and manage huge datasets,
+which can then be analysed by their wide range of clients – including government agencies and the financial and pharmaceutical industries.
+Much of their work is naturally veiled in secrecy, but it is widely
+known that their routines for spotting patterns and anomalies in
+data which indicate suspicious or fraudulent activity are derived from
+technology developed by PayPal (Peter Thiel, who also co-founded
+the online payment service, is a Palantir co-founder).
+
+They have been credited with revealing trends that have helped
+deal with the threat of IEDs (improvised explosive devices), suicide
+bombers in Syria and Pakistan and even infiltration of allied governments by spies. The US Government are Palantir’s biggest customer,
+and their software has become one of the most effective weapons in
+the digital front of the “war on terror”. Marines, for example, have
+used Palantir tools to analyse roadside bombs in Afghanistan and
+predict attacks and the placement of bombs.
+The data needed to support Marines in Afghanistan was often spread
+across many sources without one single interface to access and analyse
+the data. Therefore, the United States Marine Corps (USMC) charged
+Palantir with developing a system that could integrate these sources
+quickly. The aim was to improve overall intelligence and reduce the
+amount of time spent looking for information. As units are often
+working in areas with low bandwidth or with no bandwidth at all,
+the system had to work without being connected to base stations.
+The Palantir Forward system provided the answer to this problem, as
+it automatically synchronized data whenever the connection to base
+stations was restored. USMC analysts were able to use Palantir’s data
+integration, search, discovery and analytic technology to fuse the data
+and provide greater intelligence to Marines on the frontline.
+
+A key philosophy of the company is that human intervention is still
+needed to get the most from data analysis – particularly when you
+have to think one step ahead of an enemy. To this end, they provide
+handpicked expert consultants to work in the field alongside their
+clients on data projects.
+
+What Were The Results?
+Using Palantir’s system, USMC analysts were able to detect correlations between weather data and IED attacks, and linked biometric
+data collected from IEDs to specific individuals and networks. None
+of this would have been possible without having all the data integrated
+and synchronized in one place.
+Palantir have now raised $1.5 billion in venture capital funding, indicating an enormous level of confidence in their technology. And the
+power of their platforms is being recognized beyond the realm of law
+enforcement and defence; the company are attracting many corporate clients, such as Hershey’s, who are collaborating with Palantir on
+a data-sharing group.
+What Data Was Used?
+In the Afghanistan example, the data used included a wide range
+of structured and unstructured data: DNA databases, surveillance
+records showing movements, social media data, tip-offs from informants, sensor data, geographical data, weather data and biometric
+data from IEDs. A big part of Palantir’s success lies in pulling such
+massive data sets together effectively.
+What Are The Technical Details?
+Palantir are understandably secretive about technical details, which
+means I am unable to share details on how data is stored or analysed.
+
+Any Challenges That Had To Be Overcome?
+Privacy is a murky area in the Big Data world, and for companies
+such as Palantir that gather enormous amounts of data public perceptions surrounding their use of that data is bound to be a concern. The
+company were implicated in the WikiLeaks scandal, when they were
+named as one of three tech firms approached by lawyers on behalf
+of Bank of America seeking proposals for dealing with an expected
+release of sensitive information. After their name was linked to the
+scandal, Palantir issued an apology for their involvement.
+Concerns are growing about government use of individuals’ data, particularly in the US and the UK, in the wake of the Edward Snowden
+NSA leaks. As such, Palantir need to tread a fine line between gathering the data necessary for the job at hand and avoiding mass invasion
+of privacy. It’s an issue that founder Alex Karp doesn’t shy away from.
+Speaking to Forbes a couple of years ago, he said: “I didn’t sign up
+for the government to know when I smoke a joint or have an affair.”
+And in a company address he stated: “We have to find places that
+we protect away from government so that we can all be the unique
+and interesting and, in my case, somewhat deviant people we’d like to
+be.”1 With the company’s reported IPO coming up, public perception
+is likely to be as important as ever and it’ll be interesting to see how
+they manage this.
+What Are The Key Learning Points
+And Takeaways?
+One of the key points that Palantir make is that human interaction
+with data is just as valuable as the data itself. This is true whether
+you’re fighting a war or trying to attract new customers to your product or service. There is a danger that we place too much blind faith
+in data itself, when, in fact, how we work with that data and make
+decisions based on it is the key.
+
+Palantir also provide an excellent example of how data can be especially powerful when more than one dataset is combined. Working
+with just one dataset can provide a very one-sided view – often it’s
+the correlations and interactions between different types of data that
+provide the real insight gems.
+REFERENCES AND FURTHER READING
+1. Greenberg, A. (2013) How a “deviant” philosopher built Palantir: A
+Cia-funded data-mining juggernaut, http://www.forbes.com/sites/andy
+greenberg/2013/08/14/agent-of-intelligence-how-a-deviant-philosopher
+-built-palantir-a-cia-funded-data-mining-juggernaut/, accessed 5 January 2016.
+You can read more about Palantir at:
+https://www.palantir.com/
+https://www.palantir.com/wp-assets/wp-content/uploads/2014/03/
+Impact-Study-Fielding-an-Advanced-Analytic-Capability-in-a-WarZone.pdf
+http://siliconangle.com/blog/2014/12/15/palantir-secures-first-60mchunk-of-projected-400m-round-as-market-asks-who/
+http://moneymorning.com/2015/07/28/as-palantir-ipo-dateapproaches-heres-what-investors-need-to-know/
+http://www.wsj.com/articles/SB100014240527023034978045792405010
+78423362
+
